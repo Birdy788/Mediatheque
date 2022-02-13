@@ -1,0 +1,3 @@
+/home/amrani/Documents/Projet/build/CMakeFiles/rebuild_cache.dir
+/home/amrani/Documents/Projet/build/CMakeFiles/edit_cache.dir
+/home/amrani/Documents/Projet/build/CMakeFiles/Projet.dir
