@@ -1,0 +1,78 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/cd.h
+dvd.h
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/dvd.h
+
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/console.cpp
+sstream
+-
+console.h
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/console.h
+
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/console.h
+numerique.h
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/numerique.h
+revue.h
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/revue.h
+cd.h
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/cd.h
+stdio.h
+-
+sstream
+-
+iostream
+-
+
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/dvd.h
+vhs.h
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/vhs.h
+
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/interface.cpp
+interface.h
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/interface.h
+
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/interface.h
+iostream
+-
+console.h
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/console.h
+
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/livre.h
+ressource.h
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/ressource.h
+
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/main.cpp
+console.h
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/console.h
+
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/numerique.h
+ressource.h
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/ressource.h
+
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/ressource.h
+vector
+-
+string
+-
+iostream
+-
+cstring
+-
+fstream
+-
+
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/revue.h
+livre.h
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/livre.h
+
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/vhs.h
+ressource.h
+D:/ENSEIRB/2A/PG208/Benjamin Celereau/Projet/ressource.h
+
