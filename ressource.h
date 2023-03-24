@@ -1,5 +1,5 @@
 //
-// Created by Benjamin Celereau on 23/04/2020.
+// Created by Yassine Amrani on 23/04/2021
 //
 
 #ifndef PROJET_RESSOURCE_H

@@ -8,4 +8,5 @@ int main() {
     application->~Console();
 
     return 0;
+    
 }
